@@ -1,0 +1,17 @@
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\ProductsStore.UnitTests.deps.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\ProductsStore.UnitTests.runtimeconfig.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\ProductsStore.UnitTests.runtimeconfig.dev.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\ProductsStore.UnitTests.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\ProductsStore.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\ProductsStore.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\obj\Debug\netcoreapp2.2\ProductsStore.UnitTests.csprojAssemblyReference.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\obj\Debug\netcoreapp2.2\ProductsStore.UnitTests.csproj.CoreCompileInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\obj\Debug\netcoreapp2.2\ProductsStore.UnitTests.AssemblyInfoInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\obj\Debug\netcoreapp2.2\ProductsStore.UnitTests.AssemblyInfo.cs
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\obj\Debug\netcoreapp2.2\ProductsStore.UnitTests.csproj.CopyComplete
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\bin\Debug\netcoreapp2.2\ProductsStore.UnitTests.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\obj\Debug\netcoreapp2.2\ProductsStore.UnitTests.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore.UnitTests\obj\Debug\netcoreapp2.2\ProductsStore.UnitTests.pdb

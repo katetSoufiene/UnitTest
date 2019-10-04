@@ -1,0 +1,9 @@
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.deps.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.AssemblyInfoInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.AssemblyInfo.cs
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.csprojAssemblyReference.cache

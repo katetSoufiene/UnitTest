@@ -1,0 +1,17 @@
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.deps.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.runtimeconfig.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.runtimeconfig.dev.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.csprojAssemblyReference.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.csproj.CoreCompileInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.AssemblyInfoInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.AssemblyInfo.cs
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLibrary.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLibrary.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.csproj.CopyComplete

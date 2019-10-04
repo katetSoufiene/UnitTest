@@ -1,0 +1,14 @@
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\bin\Debug\netcoreapp2.1\ProductsStore.deps.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\bin\Debug\netcoreapp2.1\ProductsStore.runtimeconfig.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\bin\Debug\netcoreapp2.1\ProductsStore.runtimeconfig.dev.json
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\bin\Debug\netcoreapp2.1\ProductsStore.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\bin\Debug\netcoreapp2.1\ProductsStore.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.csproj.CoreCompileInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.RazorAssemblyInfo.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.RazorAssemblyInfo.cs
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.AssemblyInfoInputs.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.AssemblyInfo.cs
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.RazorTargetAssemblyInfo.cache
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.dll
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.pdb
+D:\GitRepositories\UnitTests\ProductManagement\ProductsStore\obj\Debug\netcoreapp2.1\ProductsStore.csprojAssemblyReference.cache

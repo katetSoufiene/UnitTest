@@ -1,5 +1,4 @@
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.MsTest.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.MsTest.UnitTests.csprojAssemblyReference.cache
-D:\GitRepositories\UnitTests\ProductManagement\ProductLib.MsTest.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.MsTest.UnitTests.csproj.CoreCompileInputs.cache
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.MsTest.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.MsTest.UnitTests.AssemblyInfoInputs.cache
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.MsTest.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.MsTest.UnitTests.AssemblyInfo.cs
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.MsTest.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll

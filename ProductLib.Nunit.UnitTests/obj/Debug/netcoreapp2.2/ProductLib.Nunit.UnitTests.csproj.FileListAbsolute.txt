@@ -7,7 +7,6 @@ D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\De
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.dll
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\bin\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.pdb
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.csprojAssemblyReference.cache
-D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.csproj.CoreCompileInputs.cache
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.AssemblyInfoInputs.cache
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.AssemblyInfo.cs
 D:\GitRepositories\UnitTests\ProductManagement\ProductLib.Nunit.UnitTests\obj\Debug\netcoreapp2.2\ProductLib.Nunit.UnitTests.dll

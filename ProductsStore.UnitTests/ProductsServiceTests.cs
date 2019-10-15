@@ -17,8 +17,6 @@ namespace ProductsStore.UnitTests
 
         public ProductsServiceTests()
         {
-            // TODO: generate sample products using Bogus
-
             _product = new Product
             {
                 Id = 1,
